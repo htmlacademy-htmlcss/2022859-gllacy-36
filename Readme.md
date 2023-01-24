@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Ярослав Беляев](https://up.htmlacademy.ru/htmlcss/36/user/2022859).
-* Наставник: `Неизвестно`.
+* Наставник: `Александр Григорьев`.(https://htmlacademy.ru/profile/fuckhtml).
 
 ---
 
